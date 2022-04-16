@@ -12,6 +12,7 @@ Aplikasi sistem presensi online berbasis progressive web apps ini dibangun atas 
 
 - [Laravel](https://laravel.com).
 - [Progressive Web Apps](https://web.dev/progressive-web-apps/).
+- [Bootstrap](https://getbootstrap.com).
 - Login & Registrasi.
 - Pelacakan Lokasi (Latitude & Longitude).
 - Perhitungan jarak antar 2 titik lokasi (user dan kantor).
@@ -19,6 +20,8 @@ Aplikasi sistem presensi online berbasis progressive web apps ini dibangun atas 
 - Hasil Rekap Presensi dari User (Khusus Admin).
 
 ## Fitur Aplikasi
+
+Dasarnya diperlukan sebuah sistem untuk melakukan presensi online yang dapat diakses dengan mudah, maka dibuatlah sebuah sistem presensi online berbasis progressive web apps Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
 ### Home
 
