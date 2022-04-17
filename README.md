@@ -1,4 +1,4 @@
-## Sistem Presensi Online berbasis Progressive Web Apps menggunakan Framework Laravel - Hasil PKL di CV. Girisa Teknologi
+# Sistem Presensi Online berbasis Progressive Web Apps menggunakan Framework Laravel - Hasil PKL di CV. Girisa Teknologi
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://media-exp1.licdn.com/dms/image/C4D0BAQGuDbCAAaLtNg/company-logo_200_200/0/1519952615316?e=2147483647&v=beta&t=xHl6DS7K0TAcPrECgEMtMzWLKxJpG6OdsXWgwU0DooE" width="200"></a></p>
 
 <p align="center">
